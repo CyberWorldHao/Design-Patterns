@@ -1,0 +1,2 @@
+# Design Pattern
+ Mutiple design pattern prastice as a design pattern is a general reusable solution to a commonly occurring problem in software design. It provides a blueprint for creating a flexible and efficient design that can be applied to different scenarios. Design patterns help developers create maintainable, extensible, and scalable software systems.
